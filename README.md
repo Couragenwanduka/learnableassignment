@@ -3,6 +3,7 @@
 <html>
   <head>
     <title>Assignment</title>
+      </head>
     <body>
     <div>
     <article>
@@ -16,9 +17,9 @@
 
    <hi> list other alternatives to github</h1>
     <ul>
-     <li> Git lab<li>
-     <li>launch pad<li>
-     <li>Bitbucket<li>
+     <li> Git lab</li>
+     <li>launch pad</li>
+     <li>Bitbucket</li>
      </ul>
      </div>
 <div>
@@ -34,6 +35,6 @@
 
 git cherry-pick is just like rebasing, an advanced concept and also a powerful command. It is mainly used if you don’t want to merge the whole branch and you want some of the commits.</p> </article></div>
     </body>
-  </head>
+
 </html>
 
