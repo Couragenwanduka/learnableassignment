@@ -1,9 +1,7 @@
 # Couragelearnableassignment
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Assignment</title>
-      </head>
+  <head> </head>
     <body>
     <div>
     <article>
